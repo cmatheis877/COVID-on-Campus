@@ -1,0 +1,13 @@
+The goal of this semester-long project for my ENGL 877: Advanced Topics in Digital Humanities course initially aimed to offer insight on what the University of Nebraska-Lincoln and Downtown Lincoln are like during the coronavirus pandemic. Because I moved to Lincoln and UNL in the midst of the pandemic, with no knowledge of what these places were like pre-COVID, I have done my best to provide a sense of how the city and the university have been affected by the virus. 
+
+In the beginning of the semester, I experimented with several platforms that could host the site and decided to use two that would initially support the project: Wordpress and Flickr. Flickr stored the photos of observations that I took of campus and continues to host photos added to the project as it develops. Wordpress would serve as the primary host site for the project, that could document the pandemic in writing as well as the project as it developed. 
+
+To begin the project, I visited UNL’s campus to take photos and make observations of campus life. After making these observations and taking the photos, I critically reflected on my observations. To expand the focus of the project and to give more context for the pandemic in Lincoln itself, I repeated the same process with a district of downtown Lincoln. 
+
+I also wanted to make sure that my site was interactive; I wanted users to experience my site rather than just view it. I added menus at the top of the site, and in some cases, sub-menus to access information. Pages are linked throughout the site. But I also wanted to make sure that the content, in addition to the structure of the site itself, could be interactive. I presented my data and observations of Downtown Lincoln using StoryMap and created a Star Wars game; these are different ways that visitors could learn about the pandemic in additions to reading the articles I posted. 
+
+As I worked on and revised the site, I used the GitHub “Issues” function to keep track of the revisions I wanted to make to the site, including revisions based on feedback from the site’s reviewers. 
+
+I wanted this project to be accessible, user-friendly, efficient, and resourceful. Many thanks to Adrian Wisnicki and Jessica Dussault, who provided instruction and feedback throughout the process of creating this site. I also had many peer reviewers provide feedback on the site as the site neared completion, including Carissa Dowden, Ella Durham, Sean Matheis, and Rachel Smith. 
+
+Back up files, in plain text format, are stored in GitHub, on downloaded plain text files on my local hard drive, and in a cloud storage service. 

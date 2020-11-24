@@ -1,0 +1,6 @@
+Tool Analysis: Voyant, Git, and GitHub
+To document the D.H. process, I took handwritten notes as I explored Voyant, Git, and GitHub. Voyant is a computational text analysis tool. Git is a version control tool and GitHub is a hosting software.
+
+Ms. Jessica Dussault, from the Center for Digital Research in the Humanities (CDRH) at the University of Nebraska-Lincoln created tutorial videos on Voyant and Git/GitHub that helped our class navigate and understand the tools. I watched her videos once all the way through before experimenting with the tools. I watched the videos again as I began experimenting with the tools and took notes at the same time.
+
+View my notes below!

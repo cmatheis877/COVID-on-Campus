@@ -1,0 +1,28 @@
+Welcome to COVID on Campus!
+
+My name is Caitlin Matheis and I created this project for one of my graduate digital humanities courses at the University of Nebraska-Lincoln. COVID-19 has 
+affected everyone’s lives in many ways, and the goal of this project was to document the impact of the coronavirus pandemic on UNL’s campus. Though COVID 
+has impacted the classroom significantly with desks being placed at least six feet apart and many classes meeting virtually rather than in person, most of 
+what I have documented for this project is about COVID’s impact on the campus atmosphere; what does it feel like to be on campus right now? What precautions are being taken before 
+a student even enters a building? Has COVID affected the student life center or the orientation program that happens in an ordinary year? Many questions 
+could be asked, but I hope that this project can give you a small glimpse into what campus life is like during a global pandemic. 
+
+For this project, I produced a series of written observations while I was on campus, which you can find under the Articles menu or by clicking here. I also 
+took a series of photos of campus, which you can find under the Photos menu or by clicking here. I also experimented and analyzed several digital platforms 
+that I could have used to publish this project. You can find this written analysis under the Articles menu or by clicking here. 
+
+COVID on Campus – Observing Downtown Lincoln
+
+UNL hasn’t been the only place in Lincoln affected by the coronavirus. To understand how COVID has impacted downtown Lincoln, I wanted to create an 
+interactive, visual experience. To do this, I used two tools: GeoJSON and StoryMap. First, I created a map in GeoJSON. Because I wanted to focus my 
+observations on how the businesses of Lincoln have been affected by COVID, I used GeoJSON not only to focus my StoryMap on Lincoln as opposed to the 
+default world maps installed on the platform, but to highlight the physical boundaries of the storefronts I explored. Placing points on a map helps the 
+viewer understand the proximity of each location. Highlighting the storefronts on the map helps the viewer understand the physical size of the storefront, 
+and therefore how COVID may have impacted the business differently because of its size, in addition to presenting the proximity of the businesses. I then 
+uploaded the GeoJSON map into StoryMap and plotted points on the map to mimic the walk I took downtown; the view of the StoryMap experiences and observes 
+downtown Lincoln in the same order that I did. As a result, the photos and location can be viewed alongside the observations. 
+
+For this project, I produced a series of written observations while I was on campus, which you can find under the Articles menu or by clicking here. You 
+can find the StoryMap I created underneath the StoryMap menu or by clicking here. I also experimented and analyzed several narrative that I could have used 
+to publish this project. You can find this written analysis under the Articles menu or by clicking here. If you’d like to view photos of Downtown Lincoln 
+during the pandemic, you can do us through the Photos menu or by clicking here.

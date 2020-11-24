@@ -1,0 +1,39 @@
+Caitlin Matheis is the Project Lead at COVID on Campus. She is a M.A. candidate in the Department of English at the University of Nebraska-Lincoln on the Literary and Cultural Studies track. Her research is focused on Digital Humanities, Archives and Libraries, American Literature, and Women and Gender Studies. She currently serves as a research assistant at the Walt Whitman Archive, One More Voice Archive, and the Central Online Victorian Educator (COVE). She received her undergraduate degree from Belmont University in Nashville, Tennessee. She has previously served as a Writing Fellow at Belmont University (Nashville, TN), Tutor and Intern at the Nashville Adult Literacy Council (Nashville, TN), and the Library and Research Services Intern at the Council on Foreign Relations (New York City, NY).
+
+Special thanks to the following people for their feedback and assistance in building the COVID on Campus website:
+
+Carissa Dowden (University of Nebraska-Lincoln)
+
+Ella Durham (University of Nebraska-Lincoln)
+
+Jessica Dussault (University of Nebraska-Lincoln)
+
+Sean Matheis (University of Pittsburgh)
+
+Rachel Smith (University of Nebraska-Lincoln)
+
+Adrian Wisnicki (University of Nebraska-Lincoln)
+
+The following readings and websites were particularly helpful in the creation of this website:
+
+Alvarado, R. C. “Digital Humanities and the Great Project: Why We Should Operationalize Everything – and Study Those Who Are Doing So Now.” Debates in the Digital Humanities 2019, University of Minnesota Press, 2019, pp. 75–82, https://dhdebates.gc.cuny.edu/read/4805e692-0823-4073-b431-5a684250a82d/section/f113a7d9-5860-4bca-8f85-e2ca4ee87a73#ch06. 
+
+Genoa Indian School Digital Reconciliation Project. https://genoaindianschool.org/home. 
+
+“Hour of Code.” Code.Org, https://studio.code.org/s/starwarsblocks/stage/1/puzzle/15. 
+
+Hunter, John, et al. “Reifying the Maker as Humanist.” Making Things and Drawing Boundaries, edited by Jentry Sayers, University of Minnesota Press, 2017, pp. 130–35, https://dhdebates.gc.cuny.edu/read/0bf2487d-ccb2-4388-bffd-275ee90a3c65/section/6ea34bdc-68a3-4b3b-bdd3-d383f4b6ff4a#ch14. 
+
+One More Voice. https://onemorevoice.org/index.html. 
+
+Risam, et al. Social Justice and the Digital Humanities. http://criticaldh.roopikarisam.com/criticaldh/access/. Accessed 23 Nov. 2020. 
+
+Risam, Roopika, and Susan Edwards. Micro DH: Digital Humanities at the Small Scale. 2017, https://works.bepress.com/roopika-risam/27/. 
+
+Ruecker, Stan, and Jennifer Roberts-Smith. “Experience Design for the Humanities: Activating Multiple Interpretations.” Making Things and Drawing Boundaries, edited by Jentry Sayers, University of Minnesota Press, 2017, pp. 259–70, https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/be0ac4f2-f18b-476e-9199-463df64aa8d9. 
+
+Sayers, Jentry. “Minimal Definitions.” Minimal Computing, 2 Oct. 2016, https://go-dh.github.io/mincomp/thoughts/2016/10/02/minimal-definitions/. 
+
+Staley, David. “On the Maker Turn.” Making Things and Drawing Boundaries, edited by Jentry Sayers, University of Minnesota Press, 2017, pp. 32–41, https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/be0ac4f2-f18b-476e-9199-463df64aa8d9. 
+
+The Data-Sitters Club. https://datasittersclub.github.io/site/. 
